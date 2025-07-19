@@ -50,10 +50,8 @@ port=5000
 
 🌐 API Endpoints
 Endpoint
-/api/auth/register	POST	Register new user
-/api/auth/login	POST	User login
-/api/products	GET	Get all products
-/api/products/:id	GET	Get single product
-/api/orders	POST	Create new order
-/api/users/profile	GET	Get user profile (protected)
+/api/auth
+/api/products
+/api/orders
+/api/users
 -----------------------------------------------------------------------------
