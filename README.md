@@ -1,7 +1,4 @@
 markdown
-## 📝 License
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE file](LICENSE) for details.
-
 # 🛍️ E-commerce Backend API
 
 A robust Node.js backend for an e-commerce platform, featuring product management, user authentication, and order processing.
@@ -23,6 +20,9 @@ A robust Node.js backend for an e-commerce platform, featuring product managemen
 - **Authentication**: JWT, Bcrypt
 - **Testing**: Jest, Supertest
 - **Deployment**: Docker, AWS
+
+## 📝 License
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE file](LICENSE) for details.
 
 ## ⚙️ Installation
 ```bash
