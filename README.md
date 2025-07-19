@@ -16,7 +16,7 @@ A robust Node.js backend for an e-commerce platform, featuring product managemen
 
 ## 🛠️ Technologies
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (Mongoose ODM)
+- **Database**: MYSQL/ MySQL2
 - **Authentication**: JWT, Bcrypt
 - **Testing**: Jest, Supertest
 - **Deployment**: Docker, AWS
