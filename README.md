@@ -55,4 +55,5 @@ Endpoint
 /api/users/profile	GET	Get user profile (protected)
 
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+## 📝 License
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE file](LICENSE) for details.
