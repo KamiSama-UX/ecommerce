@@ -54,4 +54,5 @@ Endpoint
 /api/orders	POST	Create new order
 /api/users/profile	GET	Get user profile (protected)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
